@@ -10,6 +10,13 @@
   },
   "dependencies": {},
   "devDependencies": {},
-  "keywords": ["ping"],
-  "main": "pingu-noot.js"
+  "keywords": [
+    "ping"
+  ],
+  "main": "pingu-noot.js",
+  "bugs": {
+    "url": "https://github.com/moeduffdude/pingu/issues"
+  },
+  "homepage": "https://github.com/moeduffdude/pingu",
+  "scripts": {}
 }
