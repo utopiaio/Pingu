@@ -1,0 +1,15 @@
+{
+  "name": "pingu-noot",
+  "author": "Moe Szyslak <moe.duffdude@gmail.com>",
+  "license": "MIT",
+  "description": "simple package that pings a given ip and returns the result in a cool JSON format",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/moeduffdude/pingu"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "keywords": ["ping"],
+  "main": "pingu-noot.js"
+}
